@@ -40,7 +40,8 @@ body {
 
 .ag-header {
   height: 65vh;
-  background: #161116;
+  background-color: #161116;
+  background-image: url("./../assets/icons/white-diamond-dark.png");
   color: #E0E8E3;
 }
 

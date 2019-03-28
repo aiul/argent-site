@@ -20,3 +20,37 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.ag-bg-dark { 
+  background-color: #161116;
+}
+
+.ag-nav-link {
+  color: #DCC144!important;
+}
+
+.ag-silver {
+  color: #E0E8E3;
+}
+
+.ag-logo {
+  height: 2rem;
+  width: 2rem;
+}
+
+.ag-header {
+  height: 65vh;
+  background: #161116;
+  color: #E0E8E3;
+}
+
+.ag-header-content {
+  margin: auto;
+  text-align: center;
+  position: relative; 
+  top: 20vh;
+}
+
+.ag-header-content h1 {
+  font-size: 4rem;
+}
